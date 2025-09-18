@@ -1,0 +1,26 @@
+{
+  "name": "dark-ember",
+  "displayName": "Dark Ember",
+  "description": "Dark Ember - a moody dark theme with red and yellow accents.",
+  "version": "0.0.1",
+  "publisher": "SaunKiziN",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaunKiziN/Dark-Ember-Theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-ember-color-theme.json"
+      }
+    ]
+  }
+}
