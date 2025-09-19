@@ -59,5 +59,5 @@ Open an [Issue](https://github.com/SaunKiziN/Dark-Ember-Theme/issues) or [Pull R
 ## 📌 Info
 
 - **Author:** [SaunKiziN](https://github.com/SaunKiziN)
-- **Version:** 0.0.1
+- **Version:** 0.0.2
 - **License:** [MIT](LICENSE.md)
