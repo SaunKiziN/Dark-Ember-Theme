@@ -1,7 +1,7 @@
 {
   "name": "dark-ember",
   "displayName": "Dark Ember",
-  "description": "Dark Ember - a moody dark theme with red and yellow accents.",
+  "description": "🔥 A moody dark theme with fiery red and yellow accents for VS Code - perfect for coding with style",
   "version": "0.0.1",
   "publisher": "SaunKiziN",
   "engines": {
@@ -11,6 +11,18 @@
     "type": "git",
     "url": "https://github.com/SaunKiziN/Dark-Ember-Theme"
   },
+  "icon": "images/icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "red",
+    "yellow", 
+    "fire",
+    "ember",
+    "colorful",
+    "syntax"
+  ],
   "categories": [
     "Themes"
   ],
