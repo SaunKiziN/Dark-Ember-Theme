@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #eee;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #e63946; /* ember red */
+}
+
+.subtitle {
+  color: #ffcc00; /* ember yellow */
+}
+
+button {
+  background: #e63946;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #ffcc00;
+  color: #111;
+}
