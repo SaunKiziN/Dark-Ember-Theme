@@ -2,7 +2,7 @@
   "name": "dark-ember",
   "displayName": "Dark Ember",
   "description": "🔥 A moody dark theme with fiery red and yellow accents for VS Code - perfect for coding with style",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "SaunKiziN",
   "engines": {
     "vscode": "^1.104.0"
